@@ -1,0 +1,119 @@
+﻿@model ArtistViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<hr />
+<div class="card p-1 mb-2">
+    <div class="card-header bg-secondary text-white text-uppercase active " style="height:60px">
+        <h4 class="display-6 text-center">Add Artist Info</h4>
+    </div>
+    <form id="createForm" asp-action="Create" enctype="multipart/form-data">
+        <div class="row">
+            <div class="col-md-6 mb-2">
+                <div class="form-group">
+                    <label asp-for="ArtistName" class="control-label bold-label fw-bold"></label>
+                    <input asp-for="ArtistName" class="form-control" />
+                    <span asp-validation-for="ArtistName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6 mb-2">
+                <div class="form-group">
+                    <label asp-for="Dob" class="control-label fw-bold"></label>
+                    <input asp-for="Dob" class="form-control" />
+                    <span asp-validation-for="Dob" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6 mb-2">
+                <div class="form-group">
+                    <label asp-for="Role.RoleName" class="control-label fw-bold"></label>
+                    <select class="form-control country" asp-for="RoleId" asp-items="@(new SelectList(Model.Roles,"RoleId","RoleName"))"> <option value="0">---Select One---</option></select>
+
+                    <span asp-validation-for="RoleId" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="MobileNo" class="control-label fw-bold"></label>
+                    <input asp-for="MobileNo" class="form-control" />
+                    <span asp-validation-for="MobileNo" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label asp-for="IsAlive" class="control-label fw-bold"></label>
+                    <input type="checkbox" asp-for="IsAlive" class="fw-bold" />
+                    <span asp-validation-for="IsAlive" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="col-md-6 btn-group">
+                <div class="form-group col-8 p-0">
+                    <label asp-for="ProfileFile" class="control-label fw-bold"></label>
+                    <div class="customFile">
+                        <input asp-for="ProfileFile" type="file" class="custom-file-input" id="customFile" onchange="document.getElementById('PreviewPhoto').src= window.URL.createObjectURL(this.files[0])" />
+                        <label class="custom-file-label invisible" for="customFile">Choose File</label>
+                    </div>
+                </div>
+                <div class="form-group col-4">
+                    <img id="PreviewPhoto" src="~/images/noimage.png" class="rounded" width="125" height="125" style="border:1px;margin-top:20px;" />
+                </div>
+            </div>
+            <div class="col-md-12">
+                <div id="moviesTableContainer">
+                    @Html.Partial("_MoviesTable", Model.Movies)
+                </div>
+                <div class="form-group" style="text-align: center;">
+                    <button type="button" class="btn btn-warning active" onclick="AddMovie()">Add Movie</button>
+                </div>
+            </div>
+            <div class="col-12 btn-group">
+                <div class="col-6 form-group">
+                    <div class="col-6-group text-right p-2">
+                        <a asp-action="Index" class="btn btn-outline-secondary btn-sm">&nbsp;Back to List&nbsp;</a>
+                        <input id="submitForm" type="submit" value="Save Data" class="btn btn-outline-success btn-sm" />
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script>
+    $(".custom-file-input").on("change", function () {
+        var fileName = $(this).val().split("\\").pop();
+        $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+    });
+
+    function DeleteItem(btn) {
+        $(btn).closest('tr').remove();
+    }
+
+    function AddMovie() {
+        var lastRowIndex = parseInt($("#hdnLastIndex").val());
+        var newRow = '<tr>' +
+            '<td><input type="text" class="form-control" name="Movies[' + lastRowIndex + '].MovieName" /></td>' +
+            '<td><input type="number" class="form-control" name="Movies[' + lastRowIndex + '].Duration" /></td>' +
+            '<td><button type="button" class="btn btn-danger" onclick="DeleteItem(this)">Delete</button></td>' +
+            '</tr>';
+        $("#ExpTable tbody").append(newRow);
+        $("#hdnLastIndex").val(lastRowIndex + 1);
+    }
+
+    $("#createForm").submit(function (event) {
+        event.preventDefault();
+        var formData = new FormData(this);
+
+        $.ajax({
+            type: "post",
+            url: "/Artist/Create",
+            contentType: false,
+            processData: false,
+            data: formData,
+            success: function (data) {
+                alert("Created");
+            },
+            error: function (err) {
+                alert("Error Occurred");
+            }
+        });
+    });
+</script>

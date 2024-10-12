@@ -1,0 +1,19 @@
+﻿@model Artist
+
+<table class="table table-bordered table-striped table-sm">
+    <thead>
+        <tr>
+            <th>Movie Name</th>
+            <th>Movie Duration</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var exp in Model.Movies)
+        {
+            <tr>
+                <td>@Html.DisplayFor(e => exp.MovieName)</td>
+                <td>@Html.DisplayFor(e => exp.Duration) Hours</td>
+            </tr>
+        }
+    </tbody>
+</table>

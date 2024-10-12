@@ -1,0 +1,147 @@
+﻿@model ArtistViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<hr />
+<div class="card p-2">
+    <div class="card-header">
+        <h4 style="text-align:center" class="display-6 active">Update Artist Info</h4>
+    </div>
+    <form id="editForm" asp-action="Edit" method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="col-6">
+                @Html.HiddenFor(x => x.ArtistId)
+                <div class="form-group mb-2">
+                    <label asp-for="ArtistName" class="control-label fw-bold"></label>
+                    <input asp-for="ArtistName" class="form-control" />
+                    <span asp-validation-for="ArtistName" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-2">
+                    <label asp-for="Dob" class="control-label fw-bold"></label>
+                    <input asp-for="Dob" class="form-control" />
+                    <span asp-validation-for="Dob" class="text-danger"></span>
+                </div>
+                <div class="form-group mb-2">
+                    <label asp-for="MobileNo" class="control-label fw-bold"></label>
+                    <input asp-for="MobileNo" class="form-control" />
+                    <span asp-validation-for="MobileNo" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-2">
+                    <label asp-for="IsAlive" class="control-label fw-bold"></label>
+                    <input type="checkbox" asp-for="IsAlive" />
+                    <span asp-validation-for="IsAlive" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-2">
+                    <label asp-for="Role.RoleName" class="control-label fw-bold"></label>
+                    <select class="form-control country" asp-for="RoleId" asp-items="@(new SelectList(Model.Roles,"RoleId","RoleName"))"> <option value="0">---Select One---</option></select>
+
+                    <span asp-validation-for="RoleId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <div>
+                        <img id="PreviewPhoto" src="~/images/@Model.ImageUrl" class="rounded" width="125" height="125" style="border:1px;margin-top:20px;" />
+                    </div>
+                    <label asp-for="ProfileFile" class="control-label fw-bold"></label>
+                    <div class="customFile">
+                        <input asp-for="ProfileFile" type="file" class="custom-file-input" id="customFile" onchange="document.getElementById('PreviewPhoto').src= window.URL.createObjectURL(this.files[0])" />
+                        <label class="custom-file-label invisible" for="customFile"></label>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="col-md-12">
+                    <h5 style="text-align:center">Edit Movies</h5>
+                    <div id="modulesTableContainer">
+                        @Html.Partial("_MoviesTable", Model.Movies)
+                    </div>
+                    <div class="form-group" style="text-align: center;">
+                        <button type="button" class="btn btn-secondary active add-movie-button" onclick="AddMovie()">Add Movie</button>
+                    </div>
+                    <input type="hidden" id="hdnLastIndex" value="@Model.Movies.Count" />
+                </div>
+            </div>
+            <div class="col-6-group text-right p-2">
+                <a asp-action="Index" class="btn btn-secondary">&nbsp;Back to List&nbsp;</a>
+                <input type="submit" value="Update Artist Info" class="btn btn-primary" />
+            </div>
+        </div>
+    </form>
+</div>
+<script src="~/jquery/jquery.min.js"></script>
+<script>
+    $(".custom-file-input").on("change", function () {
+        var fileName = $(this).val().split("\\").pop();
+        $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
+        document.getElementById('PreviewPhoto').src = window.URL.createObjectURL(this.files[0]);
+    });
+
+    function DeleteItem(btn) {
+        $(btn).closest('tr').remove();
+
+        UpdateModuleIndices();
+    }
+
+
+    function AddMovie() {
+        var lastRowIndex = parseInt($("#hdnLastIndex").val());
+        var newRow =
+            '<tr>' +
+            '<td><input type="text" class="form-control" name="Movies[' + lastRowIndex + '].MovieName" /></td>' +
+            '<td><input type="number" class="form-control" name="Movies[' + lastRowIndex + '].Duration" /></td>';
+        if (lastRowIndex > 0) {
+            newRow += '<td><button type="button" class="btn btn-danger" onclick="DeleteItem(this)">Remove</button></td>';
+        } else {
+            newRow += '<td></td>';
+        }
+
+        newRow += '</tr>';
+
+        $("#ExpTable tbody").append(newRow);
+        $("#hdnLastIndex").val(lastRowIndex + 1);
+
+        if (lastRowIndex === 0) {
+            $(".add-movie-button").hide();
+        }
+
+        UpdateModuleIndices();
+
+    }
+
+
+
+
+    function UpdateModuleIndices() {
+        $("#ExpTable tbody tr").each(function (index, tr) {
+            $(tr).find('input[name^="Movies["]').each(function () {
+                var oldName = $(this).attr('name');
+                var newName = oldName.replace(/\d+/, index);
+                $(this).attr('name', newName);
+            });
+        });
+    }
+
+
+
+    $("#submitForm").click(function () {
+        var formData = new FormData(document.getElementById("editForm"));
+
+        $.ajax({
+            type: "POST",
+            url: "/Student/Edit",
+            data: formData,
+            contentType: false,
+            processData: false,
+            success: function (response) {
+
+                alert("Edited");
+                window.location.href = '/Artist/Index';
+            },
+            error: function (error) {
+
+                alert("error occurred");
+            }
+        });
+    });
+</script>

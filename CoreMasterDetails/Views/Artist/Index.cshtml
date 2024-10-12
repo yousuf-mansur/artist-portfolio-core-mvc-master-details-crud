@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Artist>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="row">
+    <p>
+        <a href="@Url.Action("Create", "Artist")" id="btnCreate" class="btn btn-outline-primary btn-sm mt-5"> + Add Artist Info</a>
+    </p>
+    <h4>Artist List</h4>
+    @foreach (var item in Model)
+    {
+        <div class="card mb-2">
+            <div class="card-header d-flex justify-content-between">
+                <img src="~/images/@item.ImageUrl" width="50" height="50" class="rounded">
+                <label class="m-2"><b>Name:</b> @Html.DisplayFor(m => item.ArtistName)</label>
+                <br />
+                <label class="m-2"><b>Mobile:</b> @Html.DisplayFor(m => item.Mobile)</label><br>
+                <label class="m-2"><b>Date of Birth:</b> @item.Dob.ToShortDateString()</label><br>
+                <label class="m-2"><b>Is Alive?</b> @Html.DisplayFor(m => item.IsAlive) </label><br>
+                <label class="m-2"><b>Role Title:</b> @Html.DisplayFor(m => item.Role.RoleName)</label>
+            </div>
+            <div>
+                <a href="@Url.Action("Edit", "Artist", new { id = item.ArtistId })" class="btn btn-secondary m-2">Edit</a>
+                <a href="@Url.Action("Delete", "Artist", new { id = item.ArtistId })" class="btn btn-danger m-2">Delete</a>
+            </div>
+            <div class="card-body">
+                @Html.Partial("_IndexMovieTable", item)
+            </div>
+        </div>
+    }
+</div>

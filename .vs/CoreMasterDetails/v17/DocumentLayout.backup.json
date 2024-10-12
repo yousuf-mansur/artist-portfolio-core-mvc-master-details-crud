@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\roles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\artist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\artist\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\shared\\_indexmovietable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\shared\\_indexmovietable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\shared\\_moviestable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\shared\\_moviestable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\artist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\artist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\roles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\roles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\coremasterdetails.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\coremasterdetails.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\models\\viewmodels\\artistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\models\\viewmodels\\artistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\models\\artistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\models\\artistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Migrations\\20241012054050_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CoreMasterDetails\\Migrations\\20241012054050_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\controllers\\artistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\artist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\artist\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|d:\\isdb-bisew\\gitproject\\artistprofile\\coremasterdetails\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7413F193-985F-4184-8880-BDC6E499B903}|CoreMasterDetails\\CoreMasterDetails.csproj|solutionrelative:coremasterdetails\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Artist\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Artist\\Index.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Artist\\Index.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Artist\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAAoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T04:24:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Artist\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Artist\\Create.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Artist\\Create.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Artist\\Create.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEcAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T04:26:46.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_IndexMovieTable.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Shared\\_IndexMovieTable.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Shared\\_IndexMovieTable.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Shared\\_IndexMovieTable.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Shared\\_IndexMovieTable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T03:41:55.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_MoviesTable.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Shared\\_MoviesTable.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Shared\\_MoviesTable.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Shared\\_MoviesTable.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Shared\\_MoviesTable.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T03:22:56.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Roles\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Roles\\Create.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Roles\\Create.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Roles\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T05:52:35.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T02:47:20.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Roles\\Index.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Roles\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T05:52:22.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArtistDbContext.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\ArtistDbContext.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Models\\ArtistDbContext.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\ArtistDbContext.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Models\\ArtistDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:41:09.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArtistViewModel.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\ViewModels\\ArtistViewModel.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Models\\ViewModels\\ArtistViewModel.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\ViewModels\\ArtistViewModel.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Models\\ViewModels\\ArtistViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:19:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Controllers\\RolesController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:50:15.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Roles\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Roles\\Delete.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Roles\\Delete.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Roles\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T05:52:34.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241012054050_init.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Migrations\\20241012054050_init.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Migrations\\20241012054050_init.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Migrations\\20241012054050_init.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Migrations\\20241012054050_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T05:40:50.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArtistController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Controllers\\ArtistController.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Controllers\\ArtistController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Controllers\\ArtistController.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Controllers\\ArtistController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:58:44.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoreMasterDetails.csproj",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\CoreMasterDetails.csproj",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\CoreMasterDetails.csproj",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\CoreMasterDetails.csproj",
+              "RelativeToolTip": "CoreMasterDetails\\CoreMasterDetails.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T09:19:00.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\appsettings.json",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\appsettings.json",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\appsettings.json",
+              "RelativeToolTip": "CoreMasterDetails\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T03:42:30.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Models\\Artist.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\Artist.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Models\\Artist.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:17:42.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Artist\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Artist\\Edit.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Artist\\Edit.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Artist\\Edit.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvyQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T04:27:13.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Models\\Movie.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\Movie.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:18:41.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Models\\Role.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Models\\Role.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T06:18:43.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Program.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Program.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Program.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T01:53:05.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-14T04:42:51.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoreMasterDetails\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T04:40:55.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T03:42:28.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CoreMasterDetails\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T03:42:24.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\libman.json",
+              "RelativeDocumentMoniker": "CoreMasterDetails\\libman.json",
+              "ToolTip": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\libman.json",
+              "RelativeToolTip": "CoreMasterDetails\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-07T04:18:42.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

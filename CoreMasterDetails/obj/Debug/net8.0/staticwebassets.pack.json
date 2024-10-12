@@ -1,0 +1,253 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\00d6ea38-5275-4438-abe8-7b3f6f1f1b02_abusayed.jpg",
+      "PackagePath": "staticwebassets\\images\\00d6ea38-5275-4438-abe8-7b3f6f1f1b02_abusayed.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\1434ed6a-7d4a-4e9c-8924-4dd5e0650146_employees.jpeg",
+      "PackagePath": "staticwebassets\\images\\1434ed6a-7d4a-4e9c-8924-4dd5e0650146_employees.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\1829ccea-bac5-40a0-ae41-97554d5de6c9_mugdho.jpg",
+      "PackagePath": "staticwebassets\\images\\1829ccea-bac5-40a0-ae41-97554d5de6c9_mugdho.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\1a4777bf-701c-4cba-b958-05e9f208794a_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\1a4777bf-701c-4cba-b958-05e9f208794a_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\21c105bc-5ca0-441c-b9a5-67880aff0fb5_SmilyFace.jpg",
+      "PackagePath": "staticwebassets\\images\\21c105bc-5ca0-441c-b9a5-67880aff0fb5_SmilyFace.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\2655ab9c-9594-4a25-8918-a959389b762c_BlueWebSquare.jpg",
+      "PackagePath": "staticwebassets\\images\\2655ab9c-9594-4a25-8918-a959389b762c_BlueWebSquare.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\2f0bd588-88ab-4763-b602-5ce46f4aeabd_abusayed.jpg",
+      "PackagePath": "staticwebassets\\images\\2f0bd588-88ab-4763-b602-5ce46f4aeabd_abusayed.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\30a6367c-c077-4de9-8062-2064172b658a_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\30a6367c-c077-4de9-8062-2064172b658a_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\31159932-405c-41ac-919f-a7a0cad23142_employees.jpeg",
+      "PackagePath": "staticwebassets\\images\\31159932-405c-41ac-919f-a7a0cad23142_employees.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\3349baf6-5d15-4769-9c59-f902c898a685_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\3349baf6-5d15-4769-9c59-f902c898a685_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\4881b228-5b87-4b5a-a4f6-becc3309dfc0_3550.jpg",
+      "PackagePath": "staticwebassets\\images\\4881b228-5b87-4b5a-a4f6-becc3309dfc0_3550.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\4eaeb112-197d-4921-80c2-01555b8a60fd_BlueNormalSquare.jpg",
+      "PackagePath": "staticwebassets\\images\\4eaeb112-197d-4921-80c2-01555b8a60fd_BlueNormalSquare.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\53d2dbd9-df1f-411b-aa59-04b08cbfc347_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\53d2dbd9-df1f-411b-aa59-04b08cbfc347_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\54052447-2733-48d3-9681-fd0c4195b9ad_235179pg.jpg",
+      "PackagePath": "staticwebassets\\images\\54052447-2733-48d3-9681-fd0c4195b9ad_235179pg.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\5e2381a1-c385-4289-abfe-df4671954a75_BlueNormal3848.jpg",
+      "PackagePath": "staticwebassets\\images\\5e2381a1-c385-4289-abfe-df4671954a75_BlueNormal3848.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\61ac2d9d-118b-4e71-8788-0c8323ddd2e6_download (3).jpeg",
+      "PackagePath": "staticwebassets\\images\\61ac2d9d-118b-4e71-8788-0c8323ddd2e6_download (3).jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\621a8432-d4fd-4260-9b63-8ba76685f7b5_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\621a8432-d4fd-4260-9b63-8ba76685f7b5_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\6a901187-f894-4d50-9629-6fc394bbb4c6_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\6a901187-f894-4d50-9629-6fc394bbb4c6_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\6c4f08e6-6803-45c0-91b9-38143caf6cbf_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\6c4f08e6-6803-45c0-91b9-38143caf6cbf_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\767bea62-61be-4adb-8860-1893b0018434_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\767bea62-61be-4adb-8860-1893b0018434_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\7989935e-da64-43bc-9d94-17a614e92e61_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\7989935e-da64-43bc-9d94-17a614e92e61_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\7f89d9b9-76ff-4c7b-aa48-3046d64ade39_employees.jpeg",
+      "PackagePath": "staticwebassets\\images\\7f89d9b9-76ff-4c7b-aa48-3046d64ade39_employees.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\828e1a9b-1f3c-40e1-a560-c83c232cd9dd_SmilyFace.jpg",
+      "PackagePath": "staticwebassets\\images\\828e1a9b-1f3c-40e1-a560-c83c232cd9dd_SmilyFace.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\833040d3-ab15-4cd8-b610-3a806f99e6f4_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\833040d3-ab15-4cd8-b610-3a806f99e6f4_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\8f8a377f-b4de-41f2-99c0-9e562a2aa5e5_abusayed.jpg",
+      "PackagePath": "staticwebassets\\images\\8f8a377f-b4de-41f2-99c0-9e562a2aa5e5_abusayed.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\933db866-c649-4a22-a7d8-a2da7311d10d_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\933db866-c649-4a22-a7d8-a2da7311d10d_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\9fcb2644-beb4-45c7-b807-6f55adc3240d_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\9fcb2644-beb4-45c7-b807-6f55adc3240d_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\a9e0b6c9-96bb-4d0e-a169-c1fcee840eed_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\a9e0b6c9-96bb-4d0e-a169-c1fcee840eed_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\ac0d95df-649b-43ba-b06e-61d309958de6_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\ac0d95df-649b-43ba-b06e-61d309958de6_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\afd1a236-d63f-4993-81e3-4836e44e1da9_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\afd1a236-d63f-4993-81e3-4836e44e1da9_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\b01378db-c132-4890-a156-932ddfe88dbb_abusayed.jpg",
+      "PackagePath": "staticwebassets\\images\\b01378db-c132-4890-a156-932ddfe88dbb_abusayed.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\c0e2ed1a-63e6-4b78-98fc-0e097785feed_abusayed.jpg",
+      "PackagePath": "staticwebassets\\images\\c0e2ed1a-63e6-4b78-98fc-0e097785feed_abusayed.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\cd448b3f-33f5-4773-be52-85f760c509a8_slackPhoto.jpg",
+      "PackagePath": "staticwebassets\\images\\cd448b3f-33f5-4773-be52-85f760c509a8_slackPhoto.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\ce207545-b329-4e6d-8dc1-a95e54517463_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\ce207545-b329-4e6d-8dc1-a95e54517463_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\d5eb6f81-d6a4-4a5f-915e-88cda12ac410_employees.jpeg",
+      "PackagePath": "staticwebassets\\images\\d5eb6f81-d6a4-4a5f-915e-88cda12ac410_employees.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\d68173bf-d4f0-4860-8020-f53fe0c1a86a_3545.jpg",
+      "PackagePath": "staticwebassets\\images\\d68173bf-d4f0-4860-8020-f53fe0c1a86a_3545.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download1.jpeg",
+      "PackagePath": "staticwebassets\\images\\download1.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download2.jpeg",
+      "PackagePath": "staticwebassets\\images\\download2.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download3.jpeg",
+      "PackagePath": "staticwebassets\\images\\download3.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download4.jpeg",
+      "PackagePath": "staticwebassets\\images\\download4.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download5.jpeg",
+      "PackagePath": "staticwebassets\\images\\download5.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download6.jpeg",
+      "PackagePath": "staticwebassets\\images\\download6.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download7.jpeg",
+      "PackagePath": "staticwebassets\\images\\download7.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download8.jpeg",
+      "PackagePath": "staticwebassets\\images\\download8.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\download9.jpeg",
+      "PackagePath": "staticwebassets\\images\\download9.jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\e3db2d8a-47fc-4039-a943-8529d2e724ef_mugdho.jpg",
+      "PackagePath": "staticwebassets\\images\\e3db2d8a-47fc-4039-a943-8529d2e724ef_mugdho.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\e7d72218-3bbf-485f-ad76-c9e14830b3ca_download (2).jpeg",
+      "PackagePath": "staticwebassets\\images\\e7d72218-3bbf-485f-ad76-c9e14830b3ca_download (2).jpeg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\efc797f2-6bdd-47e9-a30f-b4f1e1f875b7_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png",
+      "PackagePath": "staticwebassets\\images\\efc797f2-6bdd-47e9-a30f-b4f1e1f875b7_3xhumed-Mega-Games-Pack-31-Cars-pixar-5.256.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\f72c6e23-d34b-4381-99b5-8711a9853029_mugdho.jpg",
+      "PackagePath": "staticwebassets\\images\\f72c6e23-d34b-4381-99b5-8711a9853029_mugdho.jpg"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\images\\noimage.png"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\IsDB-BISEW\\GitProject\\ArtistProfile\\CoreMasterDetails\\wwwroot\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CoreMasterDetails.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CoreMasterDetails.props",
+      "PackagePath": "build\\CoreMasterDetails.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreMasterDetails.props",
+      "PackagePath": "buildMultiTargeting\\CoreMasterDetails.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CoreMasterDetails.props",
+      "PackagePath": "buildTransitive\\CoreMasterDetails.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

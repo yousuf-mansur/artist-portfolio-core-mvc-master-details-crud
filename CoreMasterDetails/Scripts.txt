@@ -1,0 +1,23 @@
+﻿CREATE TABLE [dbo].[Roles] (
+    [RoleId]   INT          IDENTITY (1, 1) NOT NULL PRIMARY KEY,
+    [RoleName] VARCHAR (50) NOT NULL
+);
+
+CREATE TABLE [dbo].[Artists] (
+    [ArtistId]   INT           IDENTITY (1, 1) NOT NULL PRIMARY KEY,
+    [ArtistName] VARCHAR (50)  NOT NULL,
+    [Dob]         DATETIME      NOT NULL,
+    [Mobile]      VARCHAR (50)  NOT NULL,
+    [ImageUrl]    VARCHAR (MAX) NOT NULL,
+    [IsAlive]      BIT           NOT NULL,
+    [RoleId]    INT           NOT NULL,
+    CONSTRAINT FK_Artist_Role FOREIGN KEY (RoleId) REFERENCES Roles (RoleId)
+);
+
+CREATE TABLE [dbo].[Movies] (
+    [MovieId]   INT          IDENTITY (1, 1) NOT NULL PRIMARY KEY,
+    [MovieName] VARCHAR (50) NOT NULL,
+    [Duration]   INT          NOT NULL,
+    [ArtistId]  INT          NOT NULL,
+    CONSTRAINT FK_Movie_Artist FOREIGN KEY (ArtistId) REFERENCES Artists (ArtistId)
+);
